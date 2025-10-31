@@ -1,0 +1,3571 @@
+[{
+  "stateCode": "8",
+  "stateName": "Rajasthan"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0312",
+  "cropName": "ARHAR",
+  "varietyName": "AL 882 (AL 1992)",
+  "varietyCode": "A0312179"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0312",
+  "cropName": "ARHAR",
+  "varietyName": "PAU-881",
+  "varietyCode": "A0312119"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0631",
+  "cropName": "BAJRA",
+  "varietyName": "Avika Bajra Chari (AVKS-19)",
+  "varietyCode": "A0209294"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0631",
+  "cropName": "BAJRA",
+  "varietyName": "BAIF Bajra-1",
+  "varietyCode": "A0209298"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0631",
+  "cropName": "BAJRA",
+  "varietyName": "DHANSHAKTI",
+  "varietyCode": "A0209343"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0631",
+  "cropName": "BAJRA",
+  "varietyName": "FBC-16",
+  "varietyCode": "A0209129"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0631",
+  "cropName": "BAJRA",
+  "varietyName": "Gujarat Anand Forage Bajra-4 (GAFB 4) (AFB37)",
+  "varietyCode": "A0209395"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0631",
+  "cropName": "BAJRA",
+  "varietyName": "HC-20 (HMP 9102)",
+  "varietyCode": "A0209043"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0631",
+  "cropName": "BAJRA",
+  "varietyName": "PC-701",
+  "varietyCode": "A0209371"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0631",
+  "cropName": "BAJRA",
+  "varietyName": "Raj Bajra-1(RBB-1)",
+  "varietyCode": "A020917497"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0101",
+  "cropName": "BARLEY",
+  "varietyName": "BH-393",
+  "varietyCode": "A0101024"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0101",
+  "cropName": "BARLEY",
+  "varietyName": "BH-946",
+  "varietyCode": "A0101102"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0101",
+  "cropName": "BARLEY",
+  "varietyName": "BH-959",
+  "varietyCode": "A0101103"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0101",
+  "cropName": "BARLEY",
+  "varietyName": "BHS-380",
+  "varietyCode": "A0101133"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0101",
+  "cropName": "BARLEY",
+  "varietyName": "Central Barley DWRB123 (DWRB 123)",
+  "varietyCode": "A0101117"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0101",
+  "cropName": "BARLEY",
+  "varietyName": "DWRB 182",
+  "varietyCode": "A0101141"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0101",
+  "cropName": "BARLEY",
+  "varietyName": "DWRB-137",
+  "varietyCode": "A0101118"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0101",
+  "cropName": "BARLEY",
+  "varietyName": "DWRB-160",
+  "varietyCode": "A0101138"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0101",
+  "cropName": "BARLEY",
+  "varietyName": "DWRB-219",
+  "varietyCode": "A0101145"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0101",
+  "cropName": "BARLEY",
+  "varietyName": "PL 891",
+  "varietyCode": "A0101137"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0101",
+  "cropName": "BARLEY",
+  "varietyName": "PL-426",
+  "varietyCode": "A0101006"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0101",
+  "cropName": "BARLEY",
+  "varietyName": "RD-2035",
+  "varietyCode": "A0101139"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0101",
+  "cropName": "BARLEY",
+  "varietyName": "RD-2052",
+  "varietyCode": "A0101017"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0101",
+  "cropName": "BARLEY",
+  "varietyName": "RD-2552",
+  "varietyCode": "A0101017"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0101",
+  "cropName": "BARLEY",
+  "varietyName": "RD-2715",
+  "varietyCode": "A0101079"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0101",
+  "cropName": "BARLEY",
+  "varietyName": "RD-2786",
+  "varietyCode": "A0101100"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0101",
+  "cropName": "BARLEY",
+  "varietyName": "RD-2794",
+  "varietyCode": "A0101101"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0101",
+  "cropName": "BARLEY",
+  "varietyName": "RD-2849",
+  "varietyCode": "A0101110"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0101",
+  "cropName": "BARLEY",
+  "varietyName": "RD-2899",
+  "varietyCode": "A0101134"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0101",
+  "cropName": "BARLEY",
+  "varietyName": "RD-2907",
+  "varietyCode": "A0101135"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0101",
+  "cropName": "BARLEY",
+  "varietyName": "VL Jau 118 (VLB 118)",
+  "varietyCode": "A0101093"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0603",
+  "cropName": "BERSEEM",
+  "varietyName": "BL 42",
+  "varietyCode": "A0603017"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0603",
+  "cropName": "BERSEEM",
+  "varietyName": "BL 44 (PC 91)",
+  "varietyCode": "A0603027"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0603",
+  "cropName": "BERSEEM",
+  "varietyName": "BL-10",
+  "varietyCode": "A0603010"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0603",
+  "cropName": "BERSEEM",
+  "varietyName": "BL-43",
+  "varietyCode": "A0603025"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0603",
+  "cropName": "BERSEEM",
+  "varietyName": "BUNDEL BERSEEM-5 (JHB-17-2)",
+  "varietyCode": "A060317211"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0603",
+  "cropName": "BERSEEM",
+  "varietyName": "BUNDEL BERSEEM-6 (JHB-17-1)",
+  "varietyCode": "A060317212"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0603",
+  "cropName": "BERSEEM",
+  "varietyName": "JHB-18-2 (BUNDLE BERSEEM-8)",
+  "varietyCode": "A060317686"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0603",
+  "cropName": "BERSEEM",
+  "varietyName": "MASCAVI",
+  "varietyCode": "A0603005"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0603",
+  "cropName": "BERSEEM",
+  "varietyName": "VARDAN",
+  "varietyCode": "A01021333"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0106",
+  "cropName": "BUCK WHEAT",
+  "varietyName": "Him Phaphra",
+  "varietyCode": "A01061001"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "H1002",
+  "cropName": "CARROT",
+  "varietyName": "PusaRudhira",
+  "varietyCode": "H1002049"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "H0303",
+  "cropName": "CAULIFLOWER",
+  "varietyName": "Pusa Sharad (Sel.-309-1-2)",
+  "varietyCode": "H0303004"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "H0703",
+  "cropName": "CHILLIES",
+  "varietyName": "Pusa Sada Bahar",
+  "varietyCode": "H0703049"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "H1301",
+  "cropName": "CORIANDER",
+  "varietyName": "C.G shri Chandrahasini Dhaniya-2 (ICS-4)",
+  "varietyCode": "H130116714"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "H1301",
+  "cropName": "CORIANDER",
+  "varietyName": "Punjab Sugandh",
+  "varietyCode": "H1301010"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0501",
+  "cropName": "COTTON",
+  "varietyName": "RG-542",
+  "varietyCode": "A0501367"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0501",
+  "cropName": "COTTON",
+  "varietyName": "RG-8",
+  "varietyCode": "A0501181"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0303",
+  "cropName": "COWPEA",
+  "varietyName": "RC-19",
+  "varietyCode": "A0303055"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0303",
+  "cropName": "COWPEA",
+  "varietyName": "TC-901",
+  "varietyCode": "A0303110"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0303",
+  "cropName": "COWPEA",
+  "varietyName": "karan chanwala 1 (CPD119)",
+  "varietyCode": "A0303114"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "H1302",
+  "cropName": "CUMIN",
+  "varietyName": "GC-4",
+  "varietyCode": "A0303010"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0505",
+  "cropName": "DHAINCHA",
+  "varietyName": "DH 1",
+  "varietyCode": "A0505005"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0505",
+  "cropName": "DHAINCHA",
+  "varietyName": "DH-1",
+  "varietyCode": "A0505005"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0505",
+  "cropName": "DHAINCHA",
+  "varietyName": "Pant Daincha-1",
+  "varietyCode": "A0505001"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "H1303",
+  "cropName": "FENNEL",
+  "varietyName": "GUJARAT FENNEL-11(GF-11)",
+  "varietyCode": "H1303003"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0204",
+  "cropName": "FINGER MILLET (RAGI/MANDIKA)",
+  "varietyName": "VL 376",
+  "varietyCode": "A0204145"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0204",
+  "cropName": "FINGER MILLET (RAGI/MANDIKA)",
+  "varietyName": "Vegavathi (VR 929)",
+  "varietyCode": "A0204136"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "H0101",
+  "cropName": "GARLIC",
+  "varietyName": "G-282",
+  "varietyCode": "H0101016"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "H0101",
+  "cropName": "GARLIC",
+  "varietyName": "G-384",
+  "varietyCode": "H0101019"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "H0101",
+  "cropName": "GARLIC",
+  "varietyName": "G-50",
+  "varietyCode": "H0101018"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "H0101",
+  "cropName": "GARLIC",
+  "varietyName": "Yamuna purple-10(G-404)",
+  "varietyCode": "H0101021"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0417",
+  "cropName": "GOBHI SARSON",
+  "varietyName": "GSC-7",
+  "varietyCode": "A0417004"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0302",
+  "cropName": "GRAM",
+  "varietyName": "CSJ-515",
+  "varietyCode": "A0302218"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0302",
+  "cropName": "GRAM",
+  "varietyName": "GNG 2461",
+  "varietyCode": "A03122245"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0302",
+  "cropName": "GRAM",
+  "varietyName": "GNG-1581",
+  "varietyCode": "A0308005"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0302",
+  "cropName": "GRAM",
+  "varietyName": "GNG-1958",
+  "varietyCode": "A010217162"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0302",
+  "cropName": "GRAM",
+  "varietyName": "GNG-2144",
+  "varietyCode": "A030217600"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0302",
+  "cropName": "GRAM",
+  "varietyName": "GNG-2171",
+  "varietyCode": "A0302219"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0302",
+  "cropName": "GRAM",
+  "varietyName": "GNG-2207",
+  "varietyCode": "A0302245"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0302",
+  "cropName": "GRAM",
+  "varietyName": "Haryana Chana No 7 (HC 7) (H 12-55)",
+  "varietyCode": "A0302308"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0302",
+  "cropName": "GRAM",
+  "varietyName": "Haryana Chana-5 (H96-99)",
+  "varietyCode": "A0302168"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0302",
+  "cropName": "GRAM",
+  "varietyName": "Keshav (GNG-2261)",
+  "varietyCode": "A030217404"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0302",
+  "cropName": "GRAM",
+  "varietyName": "Kota Desi Chana-1 (RKG 13-515)",
+  "varietyCode": "A0302279"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0302",
+  "cropName": "GRAM",
+  "varietyName": "Nandyal Gram 776(NBeG 776)",
+  "varietyCode": "A03122249"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0302",
+  "cropName": "GRAM",
+  "varietyName": "PURVA ( GNG-2299 )",
+  "varietyCode": "A0302253"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0302",
+  "cropName": "GRAM",
+  "varietyName": "Pant Gram(PG-5).",
+  "varietyCode": "A03021000"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0302",
+  "cropName": "GRAM",
+  "varietyName": "Phule G 0405",
+  "varietyCode": "A0302265"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0302",
+  "cropName": "GRAM",
+  "varietyName": "Pusa Chickpea 20211 (Pusa Chickpea Manav)",
+  "varietyCode": "A0302291"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0302",
+  "cropName": "GRAM",
+  "varietyName": "Pusa Parvati (BG 3062)",
+  "varietyCode": "A0302261"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0302",
+  "cropName": "GRAM",
+  "varietyName": "Pusa3043",
+  "varietyCode": "A030217606"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0302",
+  "cropName": "GRAM",
+  "varietyName": "RVG-202",
+  "varietyCode": "A0302213"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0302",
+  "cropName": "GRAM",
+  "varietyName": "RVG-203",
+  "varietyCode": "A0302224"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0302",
+  "cropName": "GRAM",
+  "varietyName": "Raj Vijay Gram 204 (RVG 204)",
+  "varietyCode": "A0302307"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0302",
+  "cropName": "GRAM",
+  "varietyName": "Sabour Chana 2",
+  "varietyCode": "A030216914"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0402",
+  "cropName": "GROUNDNUT",
+  "varietyName": "G.G-11",
+  "varietyCode": "A0402084"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0402",
+  "cropName": "GROUNDNUT",
+  "varietyName": "GAUG-10",
+  "varietyCode": "A0402066"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0402",
+  "cropName": "GROUNDNUT",
+  "varietyName": "GG 40 (Gujarat Groundnut 40) (ICGV 16668)",
+  "varietyCode": "A0402288"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0402",
+  "cropName": "GROUNDNUT",
+  "varietyName": "GG-20",
+  "varietyCode": "A0402104"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0402",
+  "cropName": "GROUNDNUT",
+  "varietyName": "GJGHPS-2",
+  "varietyCode": "A0402279"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0402",
+  "cropName": "GROUNDNUT",
+  "varietyName": "GUJARAT GROUNDNUT 23 (SORATH KIRAN)",
+  "varietyCode": "A040217219"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0402",
+  "cropName": "GROUNDNUT",
+  "varietyName": "GUJARAT GROUNDNUT 35 (SORATH GOLD)",
+  "varietyCode": "A040217218"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0402",
+  "cropName": "GROUNDNUT",
+  "varietyName": "Girnar 5 (ICGV 15090)",
+  "varietyCode": "A0402249"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0402",
+  "cropName": "GROUNDNUT",
+  "varietyName": "Girnar-4 (ICGV 15083)",
+  "varietyCode": "A0402248"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0402",
+  "cropName": "GROUNDNUT",
+  "varietyName": "Gujarat Groundnut 39(Sorath Uttam)",
+  "varietyCode": "A040217917"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0402",
+  "cropName": "GROUNDNUT",
+  "varietyName": "Gujarat Groundnut-37 (Sorath Gaurav) GG-37",
+  "varietyCode": "A0402286"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0402",
+  "cropName": "GROUNDNUT",
+  "varietyName": "Gujarat Junagadh Groundnut 32 (GJG 32) (ICGV 03043)",
+  "varietyCode": "A0402238"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0402",
+  "cropName": "GROUNDNUT",
+  "varietyName": "Pratap Mungphali-3 (UG 116)",
+  "varietyCode": "A0402253"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0402",
+  "cropName": "GROUNDNUT",
+  "varietyName": "RG-510",
+  "varietyCode": "A0402193"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0402",
+  "cropName": "GROUNDNUT",
+  "varietyName": "RG-559-3",
+  "varietyCode": "A0402219"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0402",
+  "cropName": "GROUNDNUT",
+  "varietyName": "RG-578",
+  "varietyCode": "A0402202"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0402",
+  "cropName": "GROUNDNUT",
+  "varietyName": "Raj Mungfali 4(RG 638)",
+  "varietyCode": "A0402287"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0402",
+  "cropName": "GROUNDNUT",
+  "varietyName": "TG-37A",
+  "varietyCode": "A0402133"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0606",
+  "cropName": "GUAR",
+  "varietyName": "GUAR KUNJAL( RGC-1033)",
+  "varietyCode": "A0606044"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0606",
+  "cropName": "GUAR",
+  "varietyName": "Gaur Lathi (RGC-1066)",
+  "varietyCode": "A0606030"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0606",
+  "cropName": "GUAR",
+  "varietyName": "Gaur Uday(RGC-1055)",
+  "varietyCode": "A0606031"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0606",
+  "cropName": "GUAR",
+  "varietyName": "Guar Kranti (RGC-1031)",
+  "varietyCode": "A0606034"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0606",
+  "cropName": "GUAR",
+  "varietyName": "Gujarat Guar 3 (Banas Uday)",
+  "varietyCode": "A060617422"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0606",
+  "cropName": "GUAR",
+  "varietyName": "HG 884",
+  "varietyCode": "A0606040"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0606",
+  "cropName": "GUAR",
+  "varietyName": "HG-2-20",
+  "varietyCode": "A0606041"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0606",
+  "cropName": "GUAR",
+  "varietyName": "HG-365",
+  "varietyCode": "A0606003"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0606",
+  "cropName": "GUAR",
+  "varietyName": "HG-563",
+  "varietyCode": "A0606032"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0606",
+  "cropName": "GUAR",
+  "varietyName": "KARAN GUAR-14(RGR 18-1)",
+  "varietyCode": "A060617575"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0606",
+  "cropName": "GUAR",
+  "varietyName": "Karan Guar-15 (RGr-20- 15)",
+  "varietyCode": "A060617575"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0606",
+  "cropName": "GUAR",
+  "varietyName": "RGC-1003",
+  "varietyCode": "A0606005"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0606",
+  "cropName": "GUAR",
+  "varietyName": "RGC-1033",
+  "varietyCode": "A0606044"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0606",
+  "cropName": "GUAR",
+  "varietyName": "RGC-1038",
+  "varietyCode": "A0606039"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0606",
+  "cropName": "GUAR",
+  "varietyName": "RGC-1066",
+  "varietyCode": "A0606030"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0606",
+  "cropName": "GUAR",
+  "varietyName": "RGC-936",
+  "varietyCode": "A0606025"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0606",
+  "cropName": "GUAR",
+  "varietyName": "karan guar 1(RGr-12-1)",
+  "varietyCode": "A0606047"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0403",
+  "cropName": "INDIAN RAPESEED AND MUSTARD (YELLOW SARSON)",
+  "varietyName": "BPM 11 (Bharatpur mustard 11) (DRMR 2018-19)",
+  "varietyCode": "A0403221"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0403",
+  "cropName": "INDIAN RAPESEED AND MUSTARD (YELLOW SARSON)",
+  "varietyName": "PUSA DOUBLE ZERO MUASTURD-33",
+  "varietyCode": "A040316954"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0309",
+  "cropName": "LENTIL",
+  "varietyName": "KOTA MASOOR-2 (RKL 14-20)",
+  "varietyCode": "A0309084"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0309",
+  "cropName": "LENTIL",
+  "varietyName": "KOTAMASUR-1",
+  "varietyCode": "A0309120"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0309",
+  "cropName": "LENTIL",
+  "varietyName": "Kota Masoor 3 (RKL 605-03)",
+  "varietyCode": "A0309107"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0309",
+  "cropName": "LENTIL",
+  "varietyName": "Kota Masoor 4 (RKL 58 F 375)",
+  "varietyCode": "A0309113"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0309",
+  "cropName": "LENTIL",
+  "varietyName": "L 4727",
+  "varietyCode": "A0309083"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0309",
+  "cropName": "LENTIL",
+  "varietyName": "L-4717",
+  "varietyCode": "A0309099"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0309",
+  "cropName": "LENTIL",
+  "varietyName": "L-4729",
+  "varietyCode": "A0309122"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0404",
+  "cropName": "LINSEED",
+  "varietyName": "Divya",
+  "varietyCode": "A040417190"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0404",
+  "cropName": "LINSEED",
+  "varietyName": "Indu (LCK 1108)",
+  "varietyCode": "A0404084"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0404",
+  "cropName": "LINSEED",
+  "varietyName": "JLS-73 (SLS-73)",
+  "varietyCode": "A0404070"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0404",
+  "cropName": "LINSEED",
+  "varietyName": "Jawahar Linseed Sagar-95 (JLS-95) (SLS-95)",
+  "varietyCode": "A0404088"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0404",
+  "cropName": "LINSEED",
+  "varietyName": "KBA-4",
+  "varietyCode": "A040417191"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0404",
+  "cropName": "LINSEED",
+  "varietyName": "Kota Alsi-6 (RL 13165)",
+  "varietyCode": "A0404123"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0404",
+  "cropName": "LINSEED",
+  "varietyName": "PRATAPALSI-2",
+  "varietyCode": "A0404076"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0404",
+  "cropName": "LINSEED",
+  "varietyName": "Pratap Alsi-2",
+  "varietyCode": "A0404076"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0404",
+  "cropName": "LINSEED",
+  "varietyName": "Priyam(BAU-2012-1)",
+  "varietyCode": "A040417189"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0404",
+  "cropName": "LINSEED",
+  "varietyName": "RLC 164",
+  "varietyCode": "A0404121"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0404",
+  "cropName": "LINSEED",
+  "varietyName": "RLC-153 (Utera Alsi-2)",
+  "varietyCode": "A0404097"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0404",
+  "cropName": "LINSEED",
+  "varietyName": "Umalck-1101UMA(LCK1101)",
+  "varietyCode": "A0404102"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0404",
+  "cropName": "LINSEED",
+  "varietyName": "Varsha Alsi (RLC-148)",
+  "varietyCode": "A0404117"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0208",
+  "cropName": "LITTLE MILLET (SAMAI/KUTKI)",
+  "varietyName": "Chhattisgarh Kutki-1",
+  "varietyCode": "A0208103"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0608",
+  "cropName": "LUCERNE (ALFALFA)",
+  "varietyName": "ANAND-2 (GAUL-1)",
+  "varietyCode": "A0608008"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0608",
+  "cropName": "LUCERNE (ALFALFA)",
+  "varietyName": "Krishna (RRB-07-1)",
+  "varietyCode": "A0608018"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0630",
+  "cropName": "MAIZE",
+  "varietyName": "African Tall",
+  "varietyCode": "A063016639"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0630",
+  "cropName": "MAIZE",
+  "varietyName": "BML-06",
+  "varietyCode": "A0207650"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0630",
+  "cropName": "MAIZE",
+  "varietyName": "J 1007 (PFM 10)",
+  "varietyCode": "A0630167"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0630",
+  "cropName": "MAIZE",
+  "varietyName": "J-1006",
+  "varietyCode": "A020717122"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0630",
+  "cropName": "MAIZE",
+  "varietyName": "NARMADAMOTI",
+  "varietyCode": "A0207155"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0630",
+  "cropName": "MAIZE",
+  "varietyName": "PMC-6",
+  "varietyCode": "A06302051"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropName": "MAIZE (MAKKA)",
+  "varietyName": "BML-06(FEMALE)",
+  "varietyCode": "A0207630"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "H0801",
+  "cropName": "METHI",
+  "varietyName": "PEB",
+  "varietyCode": "H0801011"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "H0801",
+  "cropName": "METHI",
+  "varietyName": "PRM-45",
+  "varietyCode": "H08011681"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "H0801",
+  "cropName": "METHI",
+  "varietyName": "RMT-1",
+  "varietyCode": "H0801012"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "H0801",
+  "cropName": "METHI",
+  "varietyName": "RMT-305",
+  "varietyCode": "H0801006"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "H0801",
+  "cropName": "METHI",
+  "varietyName": "RMt-354 (UM-354)",
+  "varietyCode": "H080117593"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0305",
+  "cropName": "MOONG",
+  "varietyName": "GAM-5",
+  "varietyCode": "A0305221"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0305",
+  "cropName": "MOONG",
+  "varietyName": "GM-4",
+  "varietyCode": "A0305110"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0305",
+  "cropName": "MOONG",
+  "varietyName": "GM-6GM-6  (NMK-15-12)",
+  "varietyCode": "A0305202"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0305",
+  "cropName": "MOONG",
+  "varietyName": "GM-7",
+  "varietyCode": "A0305201"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0305",
+  "cropName": "MOONG",
+  "varietyName": "IPM 312-20",
+  "varietyCode": "A0305235"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0305",
+  "cropName": "MOONG",
+  "varietyName": "IPM 409-4",
+  "varietyCode": "A0305236"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0305",
+  "cropName": "MOONG",
+  "varietyName": "IPM 512-1 (Soorya)",
+  "varietyCode": "A0305228"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0305",
+  "cropName": "MOONG",
+  "varietyName": "IPM-02-3",
+  "varietyCode": "A0305147"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0305",
+  "cropName": "MOONG",
+  "varietyName": "IPM-205-7(VIRAT)",
+  "varietyCode": "A0305194"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0305",
+  "cropName": "MOONG",
+  "varietyName": "IPM-410-3(SHIKHA)",
+  "varietyCode": "A0305195"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0305",
+  "cropName": "MOONG",
+  "varietyName": "Kanika (IPM 302-2)",
+  "varietyCode": "A0305199"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0305",
+  "cropName": "MOONG",
+  "varietyName": "MH 1762",
+  "varietyCode": "A0305251"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0305",
+  "cropName": "MOONG",
+  "varietyName": "MH 1772",
+  "varietyCode": "A030517872"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0305",
+  "cropName": "MOONG",
+  "varietyName": "MH-1142",
+  "varietyCode": "A0305227"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0305",
+  "cropName": "MOONG",
+  "varietyName": "MH-421",
+  "varietyCode": "A0305179"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0305",
+  "cropName": "MOONG",
+  "varietyName": "MH-421",
+  "varietyCode": "A0305158"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0305",
+  "cropName": "MOONG",
+  "varietyName": "ML-2056",
+  "varietyCode": "A0305209"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0305",
+  "cropName": "MOONG",
+  "varietyName": "MSJ-118",
+  "varietyCode": "A0305238"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0305",
+  "cropName": "MOONG",
+  "varietyName": "PANT MUNG 8 (PM 09-6)",
+  "varietyCode": "A0305196"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0305",
+  "cropName": "MOONG",
+  "varietyName": "PDM-139",
+  "varietyCode": "A0305030"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0305",
+  "cropName": "MOONG",
+  "varietyName": "PM-5",
+  "varietyCode": "H120616783"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0305",
+  "cropName": "MOONG",
+  "varietyName": "PUSA VISHAL",
+  "varietyCode": "A0305025"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0305",
+  "cropName": "MOONG",
+  "varietyName": "Pant Mung 9 (PM 09-11)",
+  "varietyCode": "A0305218"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0305",
+  "cropName": "MOONG",
+  "varietyName": "Phule Chetak (PM-707-5)",
+  "varietyCode": "A030517421"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0305",
+  "cropName": "MOONG",
+  "varietyName": "Pusa 1431",
+  "varietyCode": "A0305214"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0305",
+  "cropName": "MOONG",
+  "varietyName": "Pusa 1641",
+  "varietyCode": "A0305243"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0305",
+  "cropName": "MOONG",
+  "varietyName": "SML 1827",
+  "varietyCode": "A0305210"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0305",
+  "cropName": "MOONG",
+  "varietyName": "SML-668",
+  "varietyCode": "A0305101"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0305",
+  "cropName": "MOONG",
+  "varietyName": "Varsha (IPM 2K-14-9)",
+  "varietyCode": "A0305198"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0305",
+  "cropName": "MOONG",
+  "varietyName": "Virat",
+  "varietyCode": "A0305208"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0310",
+  "cropName": "MOTH",
+  "varietyName": "CAZRI Moth-4 (CZMO- 18-2)",
+  "varietyCode": "A0310025"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0310",
+  "cropName": "MOTH",
+  "varietyName": "CAZRIMOTH-2",
+  "varietyCode": "A0310020"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0310",
+  "cropName": "MOTH",
+  "varietyName": "RMO-2251(Marudhar)",
+  "varietyCode": "A0310022"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0310",
+  "cropName": "MOTH",
+  "varietyName": "RMO-257",
+  "varietyCode": "A0310013"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0310",
+  "cropName": "MOTH",
+  "varietyName": "RMO-40",
+  "varietyCode": "A0310001"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0310",
+  "cropName": "MOTH",
+  "varietyName": "RMO-435",
+  "varietyCode": "A0310006"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0419",
+  "cropName": "MUSTARD",
+  "varietyName": "Brijraj (DRMRIC 16-38)",
+  "varietyCode": "A0403217"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0419",
+  "cropName": "MUSTARD",
+  "varietyName": "CS-58",
+  "varietyCode": "A0403169"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0419",
+  "cropName": "MUSTARD",
+  "varietyName": "CS-60",
+  "varietyCode": "A0403172"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0419",
+  "cropName": "MUSTARD",
+  "varietyName": "DRMR 1165-40",
+  "varietyCode": "A0406086"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0419",
+  "cropName": "MUSTARD",
+  "varietyName": "DRMR 150-35 (Bharat Sarson 7)",
+  "varietyCode": "A0403193"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0419",
+  "cropName": "MUSTARD",
+  "varietyName": "DRMRIJ-31(GIRIRAJ)",
+  "varietyCode": "A0406072"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0419",
+  "cropName": "MUSTARD",
+  "varietyName": "GM-3",
+  "varietyCode": "A0419011"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0419",
+  "cropName": "MUSTARD",
+  "varietyName": "LAXMI",
+  "varietyCode": "A0501087"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0419",
+  "cropName": "MUSTARD",
+  "varietyName": "NRCHB 506",
+  "varietyCode": "A0403117"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0419",
+  "cropName": "MUSTARD",
+  "varietyName": "NRCHB-101",
+  "varietyCode": "A040917623"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0419",
+  "cropName": "MUSTARD",
+  "varietyName": "PBR-357",
+  "varietyCode": "A0406075"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0419",
+  "cropName": "MUSTARD",
+  "varietyName": "PM-30",
+  "varietyCode": "A0403146"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0419",
+  "cropName": "MUSTARD",
+  "varietyName": "PM-31",
+  "varietyCode": "A040317612"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0419",
+  "cropName": "MUSTARD",
+  "varietyName": "PUSA DOUBLE ZERO MUSTARD 31",
+  "varietyCode": "A0419017"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0419",
+  "cropName": "MUSTARD",
+  "varietyName": "PUSABOLD",
+  "varietyCode": "A0403073"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0419",
+  "cropName": "MUSTARD",
+  "varietyName": "PUSAJAIKISAN",
+  "varietyCode": "A0403066"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0419",
+  "cropName": "MUSTARD",
+  "varietyName": "Pant Rai-20",
+  "varietyCode": "A0403188"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0419",
+  "cropName": "MUSTARD",
+  "varietyName": "Pitambari(RYSK-05-02)",
+  "varietyCode": "A0403128"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0419",
+  "cropName": "MUSTARD",
+  "varietyName": "Pusa Mustard 32 (LES 54)",
+  "varietyCode": "A0419022"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0419",
+  "cropName": "MUSTARD",
+  "varietyName": "RGN-298",
+  "varietyCode": "A0406091"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0419",
+  "cropName": "MUSTARD",
+  "varietyName": "RH 1424",
+  "varietyCode": "A040617475"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0419",
+  "cropName": "MUSTARD",
+  "varietyName": "RH 1706",
+  "varietyCode": "A040617476"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0419",
+  "cropName": "MUSTARD",
+  "varietyName": "RH 761",
+  "varietyCode": "A0403184"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0419",
+  "cropName": "MUSTARD",
+  "varietyName": "RH-0406",
+  "varietyCode": "A0406073"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0419",
+  "cropName": "MUSTARD",
+  "varietyName": "RH-0749",
+  "varietyCode": "A0501091"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0419",
+  "cropName": "MUSTARD",
+  "varietyName": "RH-30",
+  "varietyCode": "A0403075"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0419",
+  "cropName": "MUSTARD",
+  "varietyName": "RH-725",
+  "varietyCode": "A0501090"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0419",
+  "cropName": "MUSTARD",
+  "varietyName": "RH-761",
+  "varietyCode": "A040317621"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0419",
+  "cropName": "MUSTARD",
+  "varietyName": "ROHINI",
+  "varietyCode": "A0403026"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0419",
+  "cropName": "MUSTARD",
+  "varietyName": "Radhika (DRMR 2017-15)",
+  "varietyCode": "A0403205"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0419",
+  "cropName": "MUSTARD",
+  "varietyName": "T-59",
+  "varietyCode": "A0403079"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0609",
+  "cropName": "OAT",
+  "varietyName": "Bundel Jai 20122 (JHO 2012-2)",
+  "varietyCode": "A0609044"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0609",
+  "cropName": "OAT",
+  "varietyName": "Bundel Jai 882 (JHO-822)",
+  "varietyCode": "A060917803"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0609",
+  "cropName": "OAT",
+  "varietyName": "Central Oat OS- 405  (OS- 405)",
+  "varietyCode": "A0609058"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0609",
+  "cropName": "OAT",
+  "varietyName": "Central Oat OS-403",
+  "varietyCode": "A0609037"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0609",
+  "cropName": "OAT",
+  "varietyName": "HARYANA JAVI-8",
+  "varietyCode": "A0609002"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0609",
+  "cropName": "OAT",
+  "varietyName": "HFO 427",
+  "varietyCode": "A0609061"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0609",
+  "cropName": "OAT",
+  "varietyName": "HFO 529",
+  "varietyCode": "A060917215"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0609",
+  "cropName": "OAT",
+  "varietyName": "HFO 607",
+  "varietyCode": "A0609062"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0609",
+  "cropName": "OAT",
+  "varietyName": "HFO 611",
+  "varietyCode": "A060917214"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0609",
+  "cropName": "OAT",
+  "varietyName": "HFO 707",
+  "varietyCode": "A060917650"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0609",
+  "cropName": "OAT",
+  "varietyName": "JHO-2009-1 (Bundel Jai-2009-1)",
+  "varietyCode": "A0609033"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0609",
+  "cropName": "OAT",
+  "varietyName": "JO 05-304 (MULTI CUT)",
+  "varietyCode": "A060917217"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0609",
+  "cropName": "OAT",
+  "varietyName": "JO 10-506",
+  "varietyCode": "A060917216"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0609",
+  "cropName": "OAT",
+  "varietyName": "KENT",
+  "varietyCode": "A0609006"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0609",
+  "cropName": "OAT",
+  "varietyName": "OL 12",
+  "varietyCode": "A0609048"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0609",
+  "cropName": "OAT",
+  "varietyName": "OL 1760 (OL 11)",
+  "varietyCode": "A0609038"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0609",
+  "cropName": "OAT",
+  "varietyName": "OL 1802-1",
+  "varietyCode": "A0609043"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0609",
+  "cropName": "OAT",
+  "varietyName": "OL 1869-1(OL-13)",
+  "varietyCode": "A060917653"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0609",
+  "cropName": "OAT",
+  "varietyName": "OL 1874 (OL 14)",
+  "varietyCode": "A0609066"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0609",
+  "cropName": "OAT",
+  "varietyName": "OL-10",
+  "varietyCode": "A0609032"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0609",
+  "cropName": "OAT",
+  "varietyName": "OL-15",
+  "varietyCode": "A060917654"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0609",
+  "cropName": "OAT",
+  "varietyName": "OL-16",
+  "varietyCode": "A060917655"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0609",
+  "cropName": "OAT",
+  "varietyName": "OS-377",
+  "varietyCode": "A0609031"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0609",
+  "cropName": "OAT",
+  "varietyName": "Phule Surabhi (RO-11-1)",
+  "varietyCode": "A0609036"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0609",
+  "cropName": "OAT",
+  "varietyName": "UPO-212",
+  "varietyCode": "A0609014"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "H0102",
+  "cropName": "ONION",
+  "varietyName": "PUSA MADHVI",
+  "varietyCode": "H0102035"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0102",
+  "cropName": "PADDY",
+  "varietyName": "CR Dhan 414 (IET 27051)",
+  "varietyCode": "A010217658"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0102",
+  "cropName": "PADDY",
+  "varietyName": "DRR DHAN 46",
+  "varietyCode": "A01022244"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0102",
+  "cropName": "PADDY",
+  "varietyName": "DRR Dhan 48 (IET 24555)",
+  "varietyCode": "A01022203"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0102",
+  "cropName": "PADDY",
+  "varietyName": "DRR Dhan 49 (IET 24557)",
+  "varietyCode": "A01022204"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0102",
+  "cropName": "PADDY",
+  "varietyName": "DRR Dhan 54 (IET 25653) (RP 5943-421-16-1-1-B)",
+  "varietyCode": "A01022102"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0102",
+  "cropName": "PADDY",
+  "varietyName": "DRR Dhan 64 (IET 28358)",
+  "varietyCode": "A010217667"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0102",
+  "cropName": "PADDY",
+  "varietyName": "DRR Dhan 67 (BRRI Dhan 84)",
+  "varietyCode": "A010217670"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0102",
+  "cropName": "PADDY",
+  "varietyName": "HKR 47",
+  "varietyCode": "A01022056"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0102",
+  "cropName": "PADDY",
+  "varietyName": "IR-64",
+  "varietyCode": "A0102547"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0102",
+  "cropName": "PADDY",
+  "varietyName": "IR-64",
+  "varietyCode": "A01021091"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0102",
+  "cropName": "PADDY",
+  "varietyName": "IR-64DrtI(DRRDHAN-42)",
+  "varietyCode": "A01021091"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0102",
+  "cropName": "PADDY",
+  "varietyName": "KRANTI (R-2022)",
+  "varietyCode": "A0102358"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0102",
+  "cropName": "PADDY",
+  "varietyName": "MAHAMAYA (IET-10749)",
+  "varietyCode": "A0102036"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0102",
+  "cropName": "PADDY",
+  "varietyName": "MTU 7029 SWARNA",
+  "varietyCode": "A01022044"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0102",
+  "cropName": "PADDY",
+  "varietyName": "MTU-1010",
+  "varietyCode": "A0102134"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0102",
+  "cropName": "PADDY",
+  "varietyName": "PB-1",
+  "varietyCode": "A01021662"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0102",
+  "cropName": "PADDY",
+  "varietyName": "PB-1121",
+  "varietyCode": "A01022137"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0102",
+  "cropName": "PADDY",
+  "varietyName": "PB-1509",
+  "varietyCode": "A01021095"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0102",
+  "cropName": "PADDY",
+  "varietyName": "PB-1718",
+  "varietyCode": "A01022138"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0102",
+  "cropName": "PADDY",
+  "varietyName": "PR 113",
+  "varietyCode": "A04040496"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0102",
+  "cropName": "PADDY",
+  "varietyName": "PR 126",
+  "varietyCode": "A01021879"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0102",
+  "cropName": "PADDY",
+  "varietyName": "PR 127",
+  "varietyCode": "A01021880"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0102",
+  "cropName": "PADDY",
+  "varietyName": "PR 128",
+  "varietyCode": "A01021969"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0102",
+  "cropName": "PADDY",
+  "varietyName": "PR 130",
+  "varietyCode": "A04040493"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0102",
+  "cropName": "PADDY",
+  "varietyName": "PR 131",
+  "varietyCode": "A01022238"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0102",
+  "cropName": "PADDY",
+  "varietyName": "PR-114",
+  "varietyCode": "A0102164"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0102",
+  "cropName": "PADDY",
+  "varietyName": "PS-5(PusaSugandh-5)",
+  "varietyCode": "A0102722"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0102",
+  "cropName": "PADDY",
+  "varietyName": "PUSA 1401",
+  "varietyCode": "A01021915"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0102",
+  "cropName": "PADDY",
+  "varietyName": "PUSA BASMATI 1637",
+  "varietyCode": "A01022195"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0102",
+  "cropName": "PADDY",
+  "varietyName": "PUSA BASMATI 1847",
+  "varietyCode": "A010217133"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0102",
+  "cropName": "PADDY",
+  "varietyName": "PUSA BASMATI 1885",
+  "varietyCode": "A010217134"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0102",
+  "cropName": "PADDY",
+  "varietyName": "PUSA BASMATI 1886",
+  "varietyCode": "A010217135"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0102",
+  "cropName": "PADDY",
+  "varietyName": "PUSA BASMATI 1979",
+  "varietyCode": "A010217136"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0102",
+  "cropName": "PADDY",
+  "varietyName": "PUSA BASMATI-6 (IET 18005)",
+  "varietyCode": "A0102854"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0102",
+  "cropName": "PADDY",
+  "varietyName": "Pusa Basmati 1692 (IET 26995)",
+  "varietyCode": "A01021992"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0102",
+  "cropName": "PADDY",
+  "varietyName": "Pusa Basmati-1985",
+  "varietyCode": "A010216925"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0102",
+  "cropName": "PADDY",
+  "varietyName": "R.BHAGWATI",
+  "varietyCode": "A0102852"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0102",
+  "cropName": "PADDY",
+  "varietyName": "R.SWETA",
+  "varietyCode": "A0404033"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0102",
+  "cropName": "PADDY",
+  "varietyName": "RAJANDRAMAHSURI-1",
+  "varietyCode": "A0102813"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0102",
+  "cropName": "PADDY",
+  "varietyName": "RAJSHREE (TCA-80-4) (IET-7970)",
+  "varietyCode": "A0102527"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0102",
+  "cropName": "PADDY",
+  "varietyName": "SAHBHAGIDHAN",
+  "varietyCode": "A0102899"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0102",
+  "cropName": "PADDY",
+  "varietyName": "SAMBHASUB-1",
+  "varietyCode": "A01021051"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0102",
+  "cropName": "PADDY",
+  "varietyName": "SARJOO-52",
+  "varietyCode": "A0102342"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0102",
+  "cropName": "PADDY",
+  "varietyName": "SWARNA SUB-1",
+  "varietyCode": "A04040490"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0102",
+  "cropName": "PADDY",
+  "varietyName": "Sabour Shree (RAU 724-48-33) (IET 18878)",
+  "varietyCode": "A01021074"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0102",
+  "cropName": "PADDY",
+  "varietyName": "ZincoRice-MS (IET 25477) (R-RHZ-LI-23)",
+  "varietyCode": "A01021780"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "H0803",
+  "cropName": "PALAK",
+  "varietyName": "ARKA ANUPAMA",
+  "varietyCode": "H0803009"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "H0803",
+  "cropName": "PALAK",
+  "varietyName": "AllGreen",
+  "varietyCode": "A0302111"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "H1206",
+  "cropName": "PEA",
+  "varietyName": "Pusa Shree (GP-17)",
+  "varietyCode": "H1206043"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "H1003",
+  "cropName": "Radish",
+  "varietyName": "Kashi Aardra (VRRAD-150)",
+  "varietyCode": "H100316681"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "H1003",
+  "cropName": "Radish",
+  "varietyName": "Kashi Lohit [VRRAD-131-2)(BKS/BS-10)",
+  "varietyCode": "H1003100"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "H1003",
+  "cropName": "Radish",
+  "varietyName": "Kashi Mooli-40 (VRRAD-203)(BKS/BS-39)",
+  "varietyCode": "H1003095"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0409",
+  "cropName": "SESAMUM",
+  "varietyName": "AAU SHT TIL-1",
+  "varietyCode": "A040917635"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0409",
+  "cropName": "SESAMUM",
+  "varietyName": "GT-04",
+  "varietyCode": "A040917656"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0409",
+  "cropName": "SESAMUM",
+  "varietyName": "GUJARAT TIL 11 (AT 324)",
+  "varietyCode": "A040917191"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0409",
+  "cropName": "SESAMUM",
+  "varietyName": "Gujarat Til 6 (G.Til 6) (AT 332)",
+  "varietyCode": "A0409120"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0409",
+  "cropName": "SESAMUM",
+  "varietyName": "MT-2013-3 (BUAT TIL-1)",
+  "varietyCode": "A040917193"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0409",
+  "cropName": "SESAMUM",
+  "varietyName": "RT 372",
+  "varietyCode": "A0409125"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0409",
+  "cropName": "SESAMUM",
+  "varietyName": "RT-346",
+  "varietyCode": "A0409092"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0409",
+  "cropName": "SESAMUM",
+  "varietyName": "RT-351",
+  "varietyCode": "A0409099"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0409",
+  "cropName": "SESAMUM",
+  "varietyName": "TKG-308",
+  "varietyCode": "A0409095"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0629",
+  "cropName": "SORGHUM",
+  "varietyName": "CSV 46F",
+  "varietyCode": "A062917355"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0629",
+  "cropName": "SORGHUM",
+  "varietyName": "CSV-15",
+  "varietyCode": "A0210011"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0629",
+  "cropName": "SORGHUM",
+  "varietyName": "CSV-41",
+  "varietyCode": "A0210396"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0629",
+  "cropName": "SORGHUM",
+  "varietyName": "Gujarat Fodder Sorghum-6 (GFS-6) (SRF-347)",
+  "varietyCode": "A0210366"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0629",
+  "cropName": "SORGHUM",
+  "varietyName": "HJ 541",
+  "varietyCode": "A0210301"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0629",
+  "cropName": "SORGHUM",
+  "varietyName": "JAICAR Hariyal (CSV 38F/SPV 2316)",
+  "varietyCode": "A0210348"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0629",
+  "cropName": "SORGHUM",
+  "varietyName": "Palem Jonna 1 (PSV 512)",
+  "varietyCode": "A021017357"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0629",
+  "cropName": "SORGHUM",
+  "varietyName": "Tandur Jonna 1 (SVT-68)",
+  "varietyCode": "A020717377"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0210",
+  "cropName": "SORGHUM (JOWAR/GREAT MILLET)",
+  "varietyName": "CSV 53F (SPV 2705)",
+  "varietyCode": "A0210424"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0210",
+  "cropName": "SORGHUM (JOWAR/GREAT MILLET)",
+  "varietyName": "HJ 541",
+  "varietyCode": "A0210301"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0210",
+  "cropName": "SORGHUM (JOWAR/GREAT MILLET)",
+  "varietyName": "Jaicar Nutrigraze  (CSV 43 BMR/SPV 2018)",
+  "varietyCode": "A0210371"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0210",
+  "cropName": "SORGHUM (JOWAR/GREAT MILLET)",
+  "varietyName": "Jaicar Sona (CSV 39/ SPV 2358)",
+  "varietyCode": "A0210349"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0410",
+  "cropName": "SOYBEAN",
+  "varietyName": "AMS 100-39 (PDKV AMBA)",
+  "varietyCode": "A041017490"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0410",
+  "cropName": "SOYBEAN",
+  "varietyName": "AMS-MB-5-18 (Suvarn Soya)",
+  "varietyCode": "A0410186"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0410",
+  "cropName": "SOYBEAN",
+  "varietyName": "IS 142 (NRC 142)",
+  "varietyCode": "A041017494"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0410",
+  "cropName": "SOYBEAN",
+  "varietyName": "JS 20-116 Jawahar Soybean 20-116 (JS 20-116)",
+  "varietyCode": "A0410165"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0410",
+  "cropName": "SOYBEAN",
+  "varietyName": "JS 20-98",
+  "varietyCode": "A0410152"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0410",
+  "cropName": "SOYBEAN",
+  "varietyName": "JS 21-72 (Jawahar Soybean 21-72)",
+  "varietyCode": "A041017901"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0410",
+  "cropName": "SOYBEAN",
+  "varietyName": "JS 22-16 (Jawahar Soybean 22-16",
+  "varietyCode": "A041017900"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0410",
+  "cropName": "SOYBEAN",
+  "varietyName": "JS-20-29",
+  "varietyCode": "A0410117"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0410",
+  "cropName": "SOYBEAN",
+  "varietyName": "JS-20-34",
+  "varietyCode": "A0410118"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0410",
+  "cropName": "SOYBEAN",
+  "varietyName": "JS-20-69",
+  "varietyCode": "A0410196"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0410",
+  "cropName": "SOYBEAN",
+  "varietyName": "JS-335",
+  "varietyCode": "A0410001"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0410",
+  "cropName": "SOYBEAN",
+  "varietyName": "JS-93-05",
+  "varietyCode": "A0410023"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0410",
+  "cropName": "SOYBEAN",
+  "varietyName": "JS-95-60",
+  "varietyCode": "A0410171"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0410",
+  "cropName": "SOYBEAN",
+  "varietyName": "Jawahar Soybean 20-94 (JS 20-94)",
+  "varietyCode": "A0410164"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0410",
+  "cropName": "SOYBEAN",
+  "varietyName": "Jawahar Soybean 97-52 (JS 97-52)",
+  "varietyCode": "A0410100"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0410",
+  "cropName": "SOYBEAN",
+  "varietyName": "KDS 726 (Phule Sangam)",
+  "varietyCode": "A0410155"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0410",
+  "cropName": "SOYBEAN",
+  "varietyName": "MACS 1520",
+  "varietyCode": "A0410175"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0410",
+  "cropName": "SOYBEAN",
+  "varietyName": "NRC 127",
+  "varietyCode": "A0410156"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0410",
+  "cropName": "SOYBEAN",
+  "varietyName": "NRC 130",
+  "varietyCode": "A0410179"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0410",
+  "cropName": "SOYBEAN",
+  "varietyName": "NRC 138",
+  "varietyCode": "A04102215"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0410",
+  "cropName": "SOYBEAN",
+  "varietyName": "NRC 150",
+  "varietyCode": "A04102213"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0410",
+  "cropName": "SOYBEAN",
+  "varietyName": "PHULE DURVA (KDS 992)",
+  "varietyCode": "A041017223"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0410",
+  "cropName": "SOYBEAN",
+  "varietyName": "PHULE KIMAYA (KDS 753)",
+  "varietyCode": "A041017429"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0410",
+  "cropName": "SOYBEAN",
+  "varietyName": "RSC 10-52",
+  "varietyCode": "A0410184"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0410",
+  "cropName": "SOYBEAN",
+  "varietyName": "RVSM 201135 (RVSM 35)",
+  "varietyCode": "A041017489"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0410",
+  "cropName": "SOYBEAN",
+  "varietyName": "Raj Vijay Soybean 2001-4 RVS 2001-4(RVS 2001-4)",
+  "varietyCode": "A0410200"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0410",
+  "cropName": "SOYBEAN",
+  "varietyName": "raj Soya-24 (RVS 2002-4)",
+  "varietyCode": "A0410151"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0418",
+  "cropName": "TARAMIRA",
+  "varietyName": "Jobner Tara (RTM-1351)",
+  "varietyCode": "A0418209"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0418",
+  "cropName": "TARAMIRA",
+  "varietyName": "RTM-1355",
+  "varietyCode": "A041816569"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "H0705",
+  "cropName": "TOMATO",
+  "varietyName": "Pusa Ruby",
+  "varietyCode": "H0705051"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0412",
+  "cropName": "TORIA",
+  "varietyName": "Pant Hill Toria-1 (PT-2006-4)",
+  "varietyCode": "A0412045"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0412",
+  "cropName": "TORIA",
+  "varietyName": "Pant Toria-508 (PTE-2008-2)",
+  "varietyCode": "A0412041"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0412",
+  "cropName": "TORIA",
+  "varietyName": "TAPESHWARI ( TK 06-1)",
+  "varietyCode": "A0412039"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0412",
+  "cropName": "TORIA",
+  "varietyName": "Tapeshwari",
+  "varietyCode": "A0403202"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0412",
+  "cropName": "TORIA",
+  "varietyName": "Uttara",
+  "varietyCode": "A0419009"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0301",
+  "cropName": "URD",
+  "varietyName": "Gujarat Urd 2 (GJU 1509)",
+  "varietyCode": "A0301186"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0301",
+  "cropName": "URD",
+  "varietyName": "IPU-94-1(Uttra)",
+  "varietyCode": "A0301015"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0301",
+  "cropName": "URD",
+  "varietyName": "Kota Urd 3 (KPU 524-65)",
+  "varietyCode": "A0301184"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0301",
+  "cropName": "URD",
+  "varietyName": "Kota Urd 4 (KPU  12-1735)",
+  "varietyCode": "A0301174"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0301",
+  "cropName": "URD",
+  "varietyName": "Kota Urd 5 (KPU 52-87)",
+  "varietyCode": "A030117416"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0301",
+  "cropName": "URD",
+  "varietyName": "MU-1",
+  "varietyCode": "A0301198"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0301",
+  "cropName": "URD",
+  "varietyName": "MU-2",
+  "varietyCode": "A03010041"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0301",
+  "cropName": "URD",
+  "varietyName": "PRATAPURD-01",
+  "varietyCode": "A0301117"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0301",
+  "cropName": "URD",
+  "varietyName": "PU-31",
+  "varietyCode": "A0301142"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0301",
+  "cropName": "URD",
+  "varietyName": "Pant Urd 10 (PU10-23)",
+  "varietyCode": "A0301172"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0301",
+  "cropName": "URD",
+  "varietyName": "Pant Urd 12",
+  "varietyCode": "A030117413"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0301",
+  "cropName": "URD",
+  "varietyName": "Pant Urd-12",
+  "varietyCode": "A030116949"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0301",
+  "cropName": "URD",
+  "varietyName": "Pant Urd-9",
+  "varietyCode": "A0301192"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0301",
+  "cropName": "URD",
+  "varietyName": "TJU 339 (Trombay Jawahar Urd 339)",
+  "varietyCode": "A0301205"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0104",
+  "cropName": "Wheat",
+  "varietyName": "Birsa Gehun-4 (JKW-261)",
+  "varietyCode": "A010417317"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0104",
+  "cropName": "Wheat",
+  "varietyName": "C-306",
+  "varietyCode": "A0104075"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0104",
+  "cropName": "Wheat",
+  "varietyName": "DBW 222",
+  "varietyCode": "A0104609"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0104",
+  "cropName": "Wheat",
+  "varietyName": "DBW 296 (Karan Aishwaraya)",
+  "varietyCode": "A010417321"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0104",
+  "cropName": "Wheat",
+  "varietyName": "DBW 327 (Karan Shivani)",
+  "varietyCode": "A010417320"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0104",
+  "cropName": "Wheat",
+  "varietyName": "DBW-107",
+  "varietyCode": "A0104466"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0104",
+  "cropName": "Wheat",
+  "varietyName": "DBW-187",
+  "varietyCode": "A010417322"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0104",
+  "cropName": "Wheat",
+  "varietyName": "DBW-303",
+  "varietyCode": "A0104615"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0104",
+  "cropName": "Wheat",
+  "varietyName": "DBW-359",
+  "varietyCode": "A010417993"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0104",
+  "cropName": "Wheat",
+  "varietyName": "DBW-370",
+  "varietyCode": "A010417986"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0104",
+  "cropName": "Wheat",
+  "varietyName": "DBW-377",
+  "varietyCode": "A010417994"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0104",
+  "cropName": "Wheat",
+  "varietyName": "DBWH 221 (DBW 221)",
+  "varietyCode": "A0104655"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0104",
+  "cropName": "Wheat",
+  "varietyName": "GW-173",
+  "varietyCode": "A0104001"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0104",
+  "cropName": "Wheat",
+  "varietyName": "GW-322",
+  "varietyCode": "A0104063"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0104",
+  "cropName": "Wheat",
+  "varietyName": "GW-547",
+  "varietyCode": "A010417991"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0104",
+  "cropName": "Wheat",
+  "varietyName": "HD 3237 Pusa Wheat 3237",
+  "varietyCode": "A0104564"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0104",
+  "cropName": "Wheat",
+  "varietyName": "HD 3298",
+  "varietyCode": "A0104627"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0104",
+  "cropName": "Wheat",
+  "varietyName": "HD 3388",
+  "varietyCode": "A010418001"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0104",
+  "cropName": "Wheat",
+  "varietyName": "HD-2733 (VSM)",
+  "varietyCode": "A0104055"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0104",
+  "cropName": "Wheat",
+  "varietyName": "HD-2851",
+  "varietyCode": "A0104162"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0104",
+  "cropName": "Wheat",
+  "varietyName": "HD-2967",
+  "varietyCode": "A0104477"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0104",
+  "cropName": "Wheat",
+  "varietyName": "HD-3059",
+  "varietyCode": "A0104452"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0104",
+  "cropName": "Wheat",
+  "varietyName": "HD-3086",
+  "varietyCode": "A0104478"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0104",
+  "cropName": "Wheat",
+  "varietyName": "HD-3226",
+  "varietyCode": "A0104562"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0104",
+  "cropName": "Wheat",
+  "varietyName": "HD-3386",
+  "varietyCode": "A010417995"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0104",
+  "cropName": "Wheat",
+  "varietyName": "HD-3406",
+  "varietyCode": "A010417981"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0104",
+  "cropName": "Wheat",
+  "varietyName": "HI 1605 (Pusa Ujala)",
+  "varietyCode": "A010416811"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0104",
+  "cropName": "Wheat",
+  "varietyName": "HI 1634 (Pusa Ahilya)",
+  "varietyCode": "A0104629"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0104",
+  "cropName": "Wheat",
+  "varietyName": "HI 8759 (PUSA TEJAS)",
+  "varietyCode": "A010416809"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0104",
+  "cropName": "Wheat",
+  "varietyName": "HI-1544",
+  "varietyCode": "A0104500"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0104",
+  "cropName": "Wheat",
+  "varietyName": "HI-1650",
+  "varietyCode": "A010417971"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0104",
+  "cropName": "Wheat",
+  "varietyName": "KARAN VARUNA (DBW 372)",
+  "varietyCode": "A010417963"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0104",
+  "cropName": "Wheat",
+  "varietyName": "KARNA VRINDA (DBW 371)",
+  "varietyCode": "A010417962"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0104",
+  "cropName": "Wheat",
+  "varietyName": "KRL-210",
+  "varietyCode": "A0104427"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0104",
+  "cropName": "Wheat",
+  "varietyName": "Karan Aditya (DBW 332)",
+  "varietyCode": "A010417314"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0104",
+  "cropName": "Wheat",
+  "varietyName": "Karan Narendra (DBW 222)",
+  "varietyCode": "A0104591"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0104",
+  "cropName": "Wheat",
+  "varietyName": "LOK-1",
+  "varietyCode": "A0104141"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0104",
+  "cropName": "Wheat",
+  "varietyName": "Nicra Pusa Wheat3411 (HD 3411)",
+  "varietyCode": "A010417976"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0104",
+  "cropName": "Wheat",
+  "varietyName": "PBW-343",
+  "varietyCode": "A0104012"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0104",
+  "cropName": "Wheat",
+  "varietyName": "PBW-502",
+  "varietyCode": "A0104280"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0104",
+  "cropName": "Wheat",
+  "varietyName": "PBW-550",
+  "varietyCode": "A0104387"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0104",
+  "cropName": "Wheat",
+  "varietyName": "PBW-677",
+  "varietyCode": "A0104654"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0104",
+  "cropName": "Wheat",
+  "varietyName": "PBW-725",
+  "varietyCode": "A0104483"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0104",
+  "cropName": "Wheat",
+  "varietyName": "PBW-752",
+  "varietyCode": "A0104565"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0104",
+  "cropName": "Wheat",
+  "varietyName": "PBW-771",
+  "varietyCode": "A0104637"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0104",
+  "cropName": "Wheat",
+  "varietyName": "PBW-826",
+  "varietyCode": "A010417980"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0104",
+  "cropName": "Wheat",
+  "varietyName": "PBW-833",
+  "varietyCode": "A010417987"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0104",
+  "cropName": "Wheat",
+  "varietyName": "PBW-872",
+  "varietyCode": "A010417983"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0104",
+  "cropName": "Wheat",
+  "varietyName": "PUSA ADITI (HI 1654)",
+  "varietyCode": "A010417985"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0104",
+  "cropName": "Wheat",
+  "varietyName": "PUSA JAGRATI (HI 1653)",
+  "varietyCode": "A010417984"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0104",
+  "cropName": "Wheat",
+  "varietyName": "PUSA WHEAT 3369 (HD 3369)",
+  "varietyCode": "A010417969"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0104",
+  "cropName": "Wheat",
+  "varietyName": "Pusa Harsha (HI 1655)",
+  "varietyCode": "A010417979"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0104",
+  "cropName": "Wheat",
+  "varietyName": "Pusa Kirti (HI 8830)",
+  "varietyCode": "A010417978"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0104",
+  "cropName": "Wheat",
+  "varietyName": "Pusa Poshtik (HI 8826)",
+  "varietyCode": "A010417977"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0104",
+  "cropName": "Wheat",
+  "varietyName": "Pusa Vakula (HI 1636)",
+  "varietyCode": "A010417315"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0104",
+  "cropName": "Wheat",
+  "varietyName": "Pusa Wheat 1628 (HI 1628)",
+  "varietyCode": "A0104598"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0104",
+  "cropName": "Wheat",
+  "varietyName": "Pusa Wheat 3249 (HD 3249)",
+  "varietyCode": "A0104595"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0104",
+  "cropName": "Wheat",
+  "varietyName": "RAJ-1482",
+  "varietyCode": "A0104154"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0104",
+  "cropName": "Wheat",
+  "varietyName": "RAJ-3077",
+  "varietyCode": "A0104207"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0104",
+  "cropName": "Wheat",
+  "varietyName": "RAJ-3765",
+  "varietyCode": "A0104013"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0104",
+  "cropName": "Wheat",
+  "varietyName": "RAJ-4037",
+  "varietyCode": "A0104348"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0104",
+  "cropName": "Wheat",
+  "varietyName": "RAJ-4079",
+  "varietyCode": "A0104410"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0104",
+  "cropName": "Wheat",
+  "varietyName": "RAJ-4120",
+  "varietyCode": "A0104390"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0104",
+  "cropName": "Wheat",
+  "varietyName": "RAJ-4238",
+  "varietyCode": "A0104447"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0104",
+  "cropName": "Wheat",
+  "varietyName": "UNNATPBW-343",
+  "varietyCode": "A0104527"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0104",
+  "cropName": "Wheat",
+  "varietyName": "Unnat PBW-550",
+  "varietyCode": "A0104537"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0104",
+  "cropName": "Wheat",
+  "varietyName": "VIDHYA (CG 1036)",
+  "varietyCode": "A010417982"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0104",
+  "cropName": "Wheat",
+  "varietyName": "WH 1270",
+  "varietyCode": "A0104625"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0104",
+  "cropName": "Wheat",
+  "varietyName": "WH-1105",
+  "varietyCode": "A0104446"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0104",
+  "cropName": "Wheat",
+  "varietyName": "WH-1124",
+  "varietyCode": "A0104473"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0104",
+  "cropName": "Wheat",
+  "varietyName": "WH-1142",
+  "varietyCode": "A0104491"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0104",
+  "cropName": "Wheat",
+  "varietyName": "WH-147",
+  "varietyCode": "A0104122"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0104",
+  "cropName": "Wheat",
+  "varietyName": "WH-711",
+  "varietyCode": "A0104067"
+},
+{
+  "stateCode": "8",
+  "stateName": "Rajasthan",
+  "cropCode": "A0104",
+  "cropName": "Wheat",
+  "varietyName": "WH1402",
+  "varietyCode": "A010417992"
+}]

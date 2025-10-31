@@ -1,0 +1,222 @@
+[
+    {
+        "id": 0,
+        "name": "stateNameToLGDCode",
+        "description": "Converts a state name (e.g., 'Bihar') into its corresponding LGD (Local Government Directory) code.",
+        "endpoint": "https://seedtrace.gov.in/api/sainet/getStateCodeByStateName",
+        "params": {"stateName": "<StateName>"},
+        "response": {"stateLGDCode": "string"},
+        "example_url": "https://seedtrace.gov.in/api/sainet/getStateCodeByStateName?state=stan",
+        "tags": ["state", "code", "utility"],
+        "preExicutionRequriedApi": []
+    },
+    {
+        "id": 1,
+        "name": "getTotalCropByState",
+        "description": "Returns total quantity produced  (in Qtl) for the given state.",
+        "endpoint": "https://seedtrace.gov.in/api/sainet/getTotalCropByState",
+        "params": {"year": "2024-25", "season": "RABI (2024-25)", "stateCode": "<stateLGDCode>"},
+        "response": {"total_qty_qtl": "number"},
+        "example_url": " https://seedtrace.gov.in/api/sainet/getTotalCropByState?year=2024-25&season=RABI (2024-25)&stateCode=9",
+        "tags": ["state", "total", "quantity", "crop"],
+        "preExicutionRequriedApi": [
+            {
+                "name": "stateNameToLGDCode",
+                "endpoint": "https://seedtrace.gov.in/api/sainet/getStateCodeByStateName",
+                "outputParam": "stateLGDCode",
+                "inputParam": {"state": "<StateName>"},
+                "messageToLLM": "EXECUTE THIS API FIRST to get the value for stateCode"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "getTotalCropByState_crop",
+        "description": "Returns total quantity (in Qtl) for the given crop within a state.",
+        "endpoint": "https://seedtrace.gov.in/api/sainet/getTotalCropWithinState",
+        "params": {"year": "2024-25", "season": "RABI (2024-25)", "stateCode": "<stateLGDCode>", "cropCode": "<cropCode>"},
+        "response": {"total_qty_qtl": "number"},
+        "example_url": " https://seedtrace.gov.in/api/sainet/getTotalCropWithinState?year=2024-25&season=RABI (2024-25)&stateCode=9&cropCode=A0309",
+        "tags": ["state", "crop", "total", "quantity"],
+        "preExicutionRequriedApi": [
+            {
+                "name": "stateNameToLGDCode",
+                "endpoint": "https://seedtrace.gov.in/api/sainet/getStateCodeByStateName",
+                "outputParam": "stateLGDCode",
+                "inputParam": {"state": "<StateName>"},
+                "messageToLLM": "EXECUTE THIS API FIRST to get the value for stateCode"
+            },
+            {
+                "name": "cropNameToCropCode",
+                "endpoint": "https://seedtrace.gov.in/api/sainet/getCropCodeByCropName",
+                "outputParam": "cropCode",
+                "inputParam": {"cropName": "<cropName>"},
+                "messageToLLM": "EXECUTE THIS API FIRST to get the value for cropCode"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "getTotalCropVarietyByState",
+        "description": "Returns total quantity (in Qtl) for a specific crop variety within a state.",
+        "endpoint": "https://seedtrace.gov.in/api/sainet/getTotalCropVarietyByState",
+        "params": {"stateCode": "<stateLGDCode>", "year": "2024-25", "season": "RABI (2024-25)", "cropCode": "<cropCode>", "varietyCode": "<varietyCode>"},
+        "response": {"total_qty_qtl": "number"},
+        "example_url": "https://seedtrace.gov.in/api/sainet/getTotalCropVarietyByState?stateCode=8&year=2024-25&season=RABI (2024-25)&cropCode=A0419&varietyCode=A0501090",
+        "tags": ["state", "crop", "variety", "quantity"],
+        "preExicutionRequriedApi": [
+            {
+                "name": "stateNameToLGDCode",
+                "endpoint": "https://seedtrace.gov.in/api/sainet/getStateCodeByStateName",
+                "outputParam": "stateLGDCode",
+                "inputParam": {"state": "<StateName>"},
+                "messageToLLM": "EXECUTE THIS API FIRST to get the value for stateCode"
+            },
+            {
+                "name": "cropNameToCropCode",
+                "endpoint": "https://seedtrace.gov.in/api/sainet/getCropCodeByCropName",
+                "outputParam": "cropCode",
+                "inputParam": {"cropName": "<cropName>"},
+                "messageToLLM": "EXECUTE THIS API FIRST to get the value for cropCode"
+            },
+            {
+                "name": "varietyNameToVarietyCode",
+                "endpoint": "https://seedtrace.gov.in/api/sainet/getVarietyCodeByVarietyName",
+                "outputParam": "varietyCode",
+                "inputParam": {"varietyName": "<varietyName>"},
+                "messageToLLM": "EXECUTE THIS API FIRST to get the value for varietyCode"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "getStateWiseCropProductionDetail",
+        "description": "Returns an array with state-wise crop production details (stateCode and Qty).",
+        "endpoint": "https://seedtrace.gov.in/api/sainet/getTotalCropWithinState",
+        "params": {"year": "2024-25", "season": "RABI (2024-25)", "stateCode": "<stateLGDCode>", "cropCode": "<cropCode>"},
+        "response": [{"stateCode": "string", "Qty": "number"}],
+        "example_url": "https://seedtrace.gov.in/api/sainet/getTotalCropWithinState?year=2024-25&season=RABI (2024-25)&stateCode=9&cropCode=A0309",
+        "tags": ["state-wise", "production", "crop"],
+        "preExicutionRequriedApi": [
+            {
+                "name": "stateNameToLGDCode",
+                "endpoint": "https://seedtrace.gov.in/api/sainet/getStateCodeByStateName",
+                "outputParam": "stateLGDCode",
+                "inputParam": {"state": "<StateName>"},
+                "messageToLLM": "EXECUTE THIS API FIRST to get the value for stateCode"
+            },
+            {
+                "name": "cropNameToCropCode",
+                "endpoint": "https://seedtrace.gov.in/api/sainet/getCropCodeByCropName",
+                "outputParam": "cropCode",
+                "inputParam": {"cropName": "<cropName>"},
+                "messageToLLM": "EXECUTE THIS API FIRST to get the value for cropCode"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "name": "getSPAList",
+        "description": "Returns a list of SPA details for a given state (SPAName, sector, SATHI-SPAID).",
+        "endpoint": "https://seedtrace.gov.in/api/sainet/getSpaList",
+        "params": {"stateCode": "<stateLGDCode>", "year": "2024-25", "season": "RABI (2024-25)"},
+        "response": [{"SPAName": "string", "sector": "string", "SATHI-SPAID": "string"}],
+        "example_url": "https://seedtrace.gov.in/api/sainet/getSpaList?stateCode=8&year=2024-25&season=RABI (2024-25)",
+        "tags": ["spa", "state", "list"],
+        "preExicutionRequriedApi": [
+            {
+                "name": "stateNameToLGDCode",
+                "endpoint": "https://seedtrace.gov.in/api/sainet/getStateCodeByStateName",
+                "outputParam": "stateLGDCode",
+                "inputParam": {"state": "<StateName>"},
+                "messageToLLM": "EXECUTE THIS API FIRST to get the value for stateCode"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "name": "getStateWiseSPAList",
+        "description": "Returns a state-wise SPA list including StateCode, SPANamer, sector, and SATHI-SPAID.",
+        "endpoint": "https://seedtrace.gov.in/api/sainet/getStateWiseSpaList",
+        "params": {"stateCode": "<stateLGDCode>", "year": "2024-25", "season": "RABI (2024-25)", "cropCode": "<cropCode (optional)>"},
+        "response": [{"StateCode": "string", "SPANamer": "string", "sector": "string", "SATHI-SPAID": "string"}],
+        "example_url": "https://seedtrace.gov.in/api/sainet/getStateWiseSpaList?stateCode=8&year=2024-25&season=RABI (2024-25)&cropCode=A0419",
+        "tags": ["spa", "state-wise", "list"],
+        "preExicutionRequriedApi": [
+            {
+                "name": "stateNameToLGDCode",
+                "endpoint": "https://seedtrace.gov.in/api/sainet/getStateCodeByStateName",
+                "outputParam": "stateLGDCode",
+                "inputParam": {"state": "<StateName>"},
+                "messageToLLM": "EXECUTE THIS API FIRST to get the value for stateCode"
+            },
+            {
+                "name": "cropNameToCropCode",
+                "endpoint": "https://seedtrace.gov.in/api/sainet/getCropCodeByCropName",
+                "outputParam": "cropCode",
+                "inputParam": {"cropName": "<cropName>"},
+                "messageToLLM": "EXECUTE THIS API FIRST to get the value for cropCode"
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "name": "statesProducingCrop",
+        "description": "Returns states producing the specified crop with their quantities.",
+        "endpoint": "https://seedtrace.gov.in/api/sainet/getstatesProducingCrop",
+        "params": {"cropCode": "<cropCode>", "year": "2024-25", "season": "RABI (2024-25)"},
+        "response": [{"stateCode": "string", "Qty": "number"}],
+        "example_url": "https://seedtrace.gov.in/api/sainet/getstatesProducingCrop?cropCode=A0309&year=2024-25&season=RABI (2024-25)",
+        "tags": ["crop", "states", "production"],
+        "preExicutionRequriedApi": [
+            {
+                "name": "cropNameToCropCode",
+                "endpoint": "https://seedtrace.gov.in/api/sainet/getCropCodeByCropName",
+                "outputParam": "cropCode",
+                "inputParam": {"cropName": "<cropName>"},
+                "messageToLLM": "EXECUTE THIS API FIRST to get the value for cropCode"
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "name": "statesProducingVariety",
+        "description": "Returns states producing the specified variety with their quantities.",
+        "endpoint": "https://seedtrace.gov.in/api/sainet/getstatesProducingCropByvariteyCode",
+        "params": {"varietyCode": "<varietyCode>", "year": "2024-25", "season": "RABI (2024-25)"},
+        "response": [{"stateCode": "string", "Qty": "number"}],
+        "example_url": "https://seedtrace.gov.in/api/sainet/getstatesProducingCropByvariteyCode?year=2024-25&season=RABI (2024-25)&varietyCode=A0501090",
+        "tags": ["variety", "states", "production"],
+        "preExicutionRequriedApi": [
+            {
+                "name": "varietyNameToVarietyCode",
+                "endpoint": "https://seedtrace.gov.in/api/sainet/getVarietyCodeByVarietyName",
+                "outputParam": "varietyCode",
+                "inputParam": {"varietyName": "<varietyName>"},
+                "messageToLLM": "EXECUTE THIS API FIRST to get the value for varietyCode"
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "name": "varietyNameToVarietyCode",
+        "description": "Converts a variety name (e.g., 'rh 725') into its corresponding Variety Code.",
+        "endpoint": "https://seedtrace.gov.in/api/sainet/getVarietyCodeByVarietyName",
+        "params": {"varietyName": "<varietyName>"},
+        "response": {"varietyCode": "string"},
+        "example_url": "https://seedtrace.gov.in/api/sainet/getVarietyCodeByVarietyName/?varietyName=rh 725",
+        "tags": ["variety", "code", "utility"],
+        "preExicutionRequriedApi": []
+    },
+    {
+        "id": 10,
+        "name": "cropNameToCropCode",
+        "description": "Converts a crop name (e.g., 'PADDY') into its corresponding Crop Code.",
+        "endpoint": "https://seedtrace.gov.in/api/sainet/getCropCodeByCropName",
+        "params": {"cropName": "<cropName>"},
+        "response": {"cropCode": "string"},
+        "example_url": "https://seedtrace.gov.in/api/sainet/getCropCodeByCropName/?cropName=PADDY",
+        "tags": ["crop", "code", "utility"],
+        "preExicutionRequriedApi": []
+    }
+]

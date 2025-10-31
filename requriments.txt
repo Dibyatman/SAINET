@@ -1,0 +1,16 @@
+langchain-groq
+langchain-mcp-adapters
+langchain-community
+langchain-huggingface
+langgraph>=0.0.49   # UPDATED from 'langgraph'
+mcp>=0.3.0          # UPDATED from 'mcp'
+pyjokes
+transformers
+accelerate
+torch>=2.3.0        # CONFLICT RESOLVED: upgraded from 'torch==2.2.2'
+huggingface_hub
+multidict!=6.5.0
+llama-index-core>=0.11.0
+llama-index-embeddings-huggingface>=0.2.0
+sentence-transformers>=2.7.0
+numpy>=1.26.0       # ADDED
