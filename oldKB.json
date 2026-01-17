@@ -12,167 +12,171 @@
     },
     {
         "id": 1,
-        "name": "getTotalCropByState",
-        "description": "Returns total quantity (in Qtl) for the given state.",
-        "endpoint": "https://seedtrace.gov.in/api/sainet/getTotalCropByState",
-        "params": {"year": "2024-25", "season": "RABI (2024-25)", "stateCode": "<stateLGDCode>"},
-        "response": {"total_qty_qtl": "number"},
-        "example_url": " https://seedtrace.gov.in/api/sainet/getTotalCropByState?year=2024-25&season=RABI (2024-25)&stateCode=9",
-        "tags": ["state", "total", "quantity", "crop"],
-        "preExicutionRequriedApi": [
-            {
-                "apiId": 0,
-                "outputParam": "stateLGDCode",
-                "inputParam": "stateCode"
-            }
-        ]
+        "name": "getUnifiedCropDataNic",
+        "description": "Fetches unified crop data (staging quantity , estimated quantity, intake, processed, tested, pass/fail quantity, production of a crop etc.) for a specified **stateName**, **year**, and **season**. This endpoint also supports filtering the results further by optional parameters such as **cropName** , **varietyName** ,** blockName**and **districtName**.",
+        "endpoint": "https://seedtrace.gov.in/api/sainet/getUnifiedCropDataNic",
+        "params": {
+            "stateName": "<StateName>",
+            "year": "<YearRange>",
+            "season": "<SeasonName>",
+            "cropName": "<OptionalCropName>",
+            "varietyName": "<OptionalVarietyName>",
+            "districtName": "<OptionalDistrictName>",
+            "blockName": "<OptionalBlockName>"
+        },
+        "response": {
+            "successdata": "array_of_objects"
+        },
+        "example_url": "https://seedtrace.gov.in/api/sainet/getUnifiedCropDataNic?year=2024-25&stateName=Rajasthan&season=Rabi",
+        "tags": ["crop", "data", "season", "state", "report", "filter"],
+        "preExicutionRequriedApi": []
     },
+{
+  "id": 2,
+  "name": "getTopCropByGeo",
+  "description": "Returns the most cultivated crop (highest total production) for a given geographic location and season-year combination. The API accepts fuzzy inputs for state, district, block, village, year, and season, and  identifies the correct administrative codes through fuzzy-matching across master databases and computes the top crop based on aggregated production quantity.",
+  "endpoint": "https://seedtrace.gov.in/api/sainet/getTopCropByGeo",
+  "method": "GET",
+  "params": {
+    "stateName": "<StateName>",
+    "districtName": "<OptionalDistrictName>",
+    "blockName": "<OptionalBlockName>",
+    "villageName": "Optional. Name of the Village",
+    "year": "<YearRange>",
+    "season": "Optional. Season name (Rabi, Kharif, Zaid)<SeasonName>"
+  },
+  "response": {
+    "success": {
+      "status": "success",
+      "message": "Most Cultivated Crop Fetched Successfully",
+      "filters": "<final_filters_applied>",
+      "assumptions": "<fuzzy_matching_details>",
+      "data": {
+        "cropName": "<TopCropName>",
+        "totalProduction": "<TotalProductionQuantity>"
+      },
+      "timestamp": "<ISO_Time>"
+    },
+    "no_data": {
+      "status": "no data",
+      "message": "cultivation data not found according to the input",
+      "filters": "<final_filters_applied>",
+      "assumptions": "<fuzzy_matching_details>",
+      "data": [],
+      "timestamp": "<ISO_Time>"
+    },
+    "failed": {
+      "status": "failed",
+      "message": "State could not be identified.",
+      "assumptions": "<fuzzy_matching_details>",
+      "data": []
+    }
+  },
+  "example_url": "https://seedtrace.gov.in/api/sainet/getTopCropByGeo?season=Rabi&year=2024-25&stateName=Rajasthan&districtName=Churu&blockName=Ratangarh&villageName=Parasneu",
+  "tags": ["crop", "top-crop", "production", "fuzzy-match", "analytics", "geography"],
+  "preExecutionRequiredApi": []
+},
+    
+{
+  "id": 3,
+  "name": "getCropListByGeo",
+  "description": "Returns a unique list of all crops cultivated within a given geographical boundary (state, district, block, village) for an optional year and season. All inputs such as state, district, block, village, year, and season are fuzzy-matched to the closest valid values from master databases. The API filters production records and extracts distinct crop names available within the resolved geographic and time filters.it should answer questions like 'Which crops were cultivated in Cuttack district of Odisha in 2023-24 Rabi season?' or 'List all crops grown in Barang block of Cuttack district'.",
+  "endpoint": "https://seedtrace.gov.in/api/sainet/getCropListByGeo",
+  "method": "GET",
+  "params": {
+    "stateName": "Required. Name of the State. Fuzzy matched.",
+    "districtName": "Optional. Name of the District. Fuzzy matched if provided.",
+    "blockName": "Optional. Name of the Block. Fuzzy matched if provided.",
+    "villageName": "Optional. Name of the Village. Fuzzy matched if provided.",
+    "year": "Optional. Financial year (YYYY or YYYY-YY). Automatically normalized and fuzzy matched.",
+    "season": "Optional. Season name (Rabi, Kharif, Zaid, Summer). Fuzzy matched and internally mapped."
+  },
+  "response": {
+    "success": {
+      "status": "success",
+      "message": "Crop list fetched successfully.",
+      "filters": "<final_filters_applied>",
+      "assumptions": "<fuzzy_matching_details>",
+      "count": "<NumberOfCrops>",
+      "data": [
+        { "cropName": "<Crop1>" },
+        { "cropName": "<Crop2>" }
+      ],
+      "timestamp": "<ISO_Time>"
+    },
+    "no_data": {
+      "status": "no data",
+      "message": "No crops found for the provided geographical and time filters.",
+      "filters": "<final_filters_applied>",
+      "assumptions": "<fuzzy_matching_details>",
+      "count": 0,
+      "data": [],
+      "timestamp": "<ISO_Time>"
+    },
+    "failed": {
+      "status": "failed",
+      "message": "State could not be identified or matched.",
+      "assumptions": "<fuzzy_matching_details>",
+      "data": []
+    }
+  },
+  "example_url": "https://seedtrace.gov.in/api/sainet/getCropListByGeo?stateName=Odisha&districtName=Cuttack&blockName=Barang&villageName=Nimapur&year=2024-25&season=Rabi",
+  "tags": ["crop", "crop-list", "fuzzy-match", "analytics", "geography"],
+  "preExecutionRequiredApi": []
+},
     {
-        "id": 2,
-        "name": "getTotalCropByState_crop",
-        "description": "Returns total quantity (in Qtl) for the given crop within a state.",
-        "endpoint": "https://seedtrace.gov.in/api/sainet/getTotalCropWithinState",
-        "params": {"year": "2024-25", "season": "RABI (2024-25)", "stateCode": "<stateLGDCode>", "cropCode": "<cropCode>"},
-        "response": {"total_qty_qtl": "number"},
-        "example_url": "  https://seedtrace.gov.in/api/sainet/getTotalCropWithinState?year=2024-25&season=RABI (2024-25)&stateCode=9&cropCode=A0309",
-        "tags": ["state", "crop", "total", "quantity"],
-        "preExicutionRequriedApi": [
-            {
-                "apiId": 0,
-                "outputParam": "stateLGDCode",
-                "inputParam": "stateCode"
-            },
-            {
-                "apiId": 10,
-                "outputParam": "cropCode",
-                "inputParam": "cropCode"
-            }
+  "id": 4,
+  "name": "getNumberOfStatesProducing",
+  "description": "Returns the number of states producing a specific crop (or all crops) optionally filtered by year and season. Also provides the total producing quantity and detailed state-wise production information. All inputs (cropName, cropCode, year, season) are fuzzy-matched and normalized before querying the central production database.this should answer qustions like 'How many states produced Paddy in 2023-24 Rabi season?' or 'Number of states producing Wheat'.",
+  "endpoint": "https://seedtrace.gov.in/api/sainet/getNumberOfStatesProducing",
+  "method": "GET",
+  "params": {
+    "year": "Optional. Financial year in 'YYYY' or 'YYYY-YY' format. Fuzzy matched and normalized.",
+    "season": "Optional. Season name (Rabi, Kharif, Zaid, Summer). Fuzzy matched and normalized.",
+    
+    "cropName": "Optional. Name of the crop. Fuzzy matched to cropMaster if cropCode is not provided."
+  },
+  "response": {
+    "success": {
+      "status": "success",
+      "message": "data retrive successfully.",
+      "filters": "<final_filters_applied>",
+      "assumptions": "<fuzzy_matching_details>",
+      "count": "<NumberOfStates>",
+      "data": {
+        "year": "<YYYY or YYYY-YY>",
+        "season": "<Season>",
+        "cropName": "<CropName>",
+        "numberOfStates": "<NumberOfStates>",
+        "totalProducingQuntity": "<SumOfTaggingQuantities>",
+        "stateDetails": [
+          { "stateName": "<State1>", "taggingQuantity": "<Quantity>" },
+          { "stateName": "<State2>", "taggingQuantity": "<Quantity>" }
         ]
+      }
     },
-    {
-        "id": 3,
-        "name": "getTotalCropVarietyByState",
-        "description": "Returns total quantity (in Qtl) for a specific crop variety within a state.",
-        "endpoint": "https://seedtrace.gov.in/api/sainet/getTotalCropVarietyByState",
-        "params": {"stateCode": "<stateLGDCode>", "year": "2024-25", "season": "RABI (2024-25)", "cropCode": "<cropCode>", "varietyCode": "<varietyCode>"},
-        "response": {"total_qty_qtl": "number"},
-        "example_url": "https://seedtrace.gov.in/api/sainet/getTotalCropVarietyByState?stateCode=8&year=2024-25&season=RABI (2024-25)&cropCode=A0419&varietyCode=A0501090",
-        "tags": ["state", "crop", "variety", "quantity"],
-        "preExicutionRequriedApi": [
-            {
-                "apiId": 0,
-                "outputParam": "stateLGDCode",
-                "inputParam": "stateCode"
-            },
-            {
-                "apiId": 10,
-                "outputParam": "cropCode",
-                "inputParam": "cropCode"
-            },
-            {
-                "apiId": 9,
-                "outputParam": "varietyCode",
-                "inputParam": "varietyCode"
-            }
-        ]
+    "no_data": {
+      "status": "no data",
+      "message": "No records found.",
+      "filters": "<final_filters_applied>",
+      "assumptions": "<fuzzy_matching_details>",
+      "count": 0,
+      "data": []
     },
-    {
-        "id": 4,
-        "name": "getStateWiseCropProductionDetail",
-        "description": "Returns an array with state-wise crop production details (stateCode and Qty).",
-        "endpoint": "https://seedtrace.gov.in/api/sainet/getTotalCropWithinState",
-        "params": {"year": "2024-25", "season": "RABI (2024-25)", "stateCode": "<stateLGDCode>", "cropCode": "<cropCode>"},
-        "response": [{"stateCode": "string", "Qty": "number"}],
-        "example_url": "https://seedtrace.gov.in/api/sainet/getTotalCropWithinState?year=2024-25&season=RABI (2024-25)&stateCode=9&cropCode=A0309",
-        "tags": ["state-wise", "production", "crop"],
-        "preExicutionRequriedApi": [
-            {
-                "apiId": 0,
-                "outputParam": "stateLGDCode",
-                "inputParam": "stateCode"
-            },
-            {
-                "apiId": 10,
-                "outputParam": "cropCode",
-                "inputParam": "cropCode"
-            }
-        ]
-    },
+    "failed": {
+      "status": "failed",
+      "message": "Crop or year could not be identified or matched.",
+      "assumptions": "<fuzzy_matching_details>",
+      "data": []
+    }
+  },
+  "example_url": "https://seedtrace.gov.in/api/sainet/getNumberOfStatesProducing?year=2024-25&season=Rabi&cropName=Paddy",
+  "tags": ["crop", "state-production", "analytics", "fuzzy-match", "optional-filters"],
+  "preExecutionRequiredApi": ["getCropMasterList"]
+},
+
     {
         "id": 5,
-        "name": "getSPAList",
-        "description": "Returns a list of SPA details for a given state (SPAName, sector, SATHI-SPAID).",
-        "endpoint": "https://seedtrace.gov.in/api/sainet/getSpaList",
-        "params": {"stateCode": "<stateLGDCode>", "year": "2024-25", "season": "RABI (2024-25)"},
-        "response": [{"SPAName": "string", "sector": "string", "SATHI-SPAID": "string"}],
-        "example_url": "https://seedtrace.gov.in/api/sainet/getSpaList?stateCode=8&year=2024-25&season=RABI (2024-25)",
-        "tags": ["spa", "state", "list"],
-        "preExicutionRequriedApi": [
-            {
-                "apiId": 0,
-                "outputParam": "stateLGDCode",
-                "inputParam": "stateCode"
-            }
-        ]
-    },
-    {
-        "id": 6,
-        "name": "getStateWiseSPAList",
-        "description": "Returns a state-wise SPA list including StateCode, SPANamer, sector, and SATHI-SPAID.",
-        "endpoint": "https://seedtrace.gov.in/api/sainet/getStateWiseSpaList",
-        "params": {"stateCode": "<stateLGDCode>", "year": "2024-25", "season": "RABI (2024-25)", "cropCode": "<cropCode (optional)>"},
-        "response": [{"StateCode": "string", "SPANamer": "string", "sector": "string", "SATHI-SPAID": "string"}],
-        "example_url": "https://seedtrace.gov.in/api/sainet/getStateWiseSpaList?stateCode=8&year=2024-25&season=RABI (2024-25)&cropCode=A0419",
-        "tags": ["spa", "state-wise", "list"],
-        "preExicutionRequriedApi": [
-            {
-                "apiId": 0,
-                "outputParam": "stateLGDCode",
-                "inputParam": "stateCode"
-            },
-            {
-                "apiId": 10,
-                "outputParam": "cropCode",
-                "inputParam": "cropCode"
-            }
-        ]
-    },
-    {
-        "id": 7,
-        "name": "statesProducingCrop",
-        "description": "Returns states producing the specified crop with their quantities.",
-        "endpoint": "https://seedtrace.gov.in/api/sainet/getstatesProducingCrop",
-        "params": {"cropCode": "<cropCode>", "year": "2024-25", "season": "RABI (2024-25)"},
-        "response": [{"stateCode": "string", "Qty": "number"}],
-        "example_url": "https://seedtrace.gov.in/api/sainet/getstatesProducingCrop?cropCode=A0309&year=2024-25&season=RABI (2024-25)",
-        "tags": ["crop", "states", "production"],
-        "preExicutionRequriedApi": [
-            {
-                "apiId": 10,
-                "outputParam": "cropCode",
-                "inputParam": "cropCode"
-            }
-        ]
-    },
-    {
-        "id": 8,
-        "name": "statesProducingVariety",
-        "description": "Returns states producing the specified variety with their quantities.",
-        "endpoint": "https://seedtrace.gov.in/api/sainet/getstatesProducingCropByvariteyCode",
-        "params": {"varietyCode": "<varietyCode>", "year": "2024-25", "season": "RABI (2024-25)"},
-        "response": [{"stateCode": "string", "Qty": "number"}],
-        "example_url": "https://seedtrace.gov.in/api/sainet/getstatesProducingCropByvariteyCode?year=2024-25&season=RABI (2024-25)&varietyCode=A0501090",
-        "tags": ["variety", "states", "production"],
-        "preExicutionRequriedApi": [
-            {
-                "apiId": 9,
-                "outputParam": "varietyCode",
-                "inputParam": "varietyCode"
-            }
-        ]
-    },
-    {
-        "id": 9,
         "name": "varietyNameToVarietyCode",
         "description": "Converts a variety name (e.g., 'rh 725') into its corresponding Variety Code.",
         "endpoint": "https://seedtrace.gov.in/api/sainet/getVarietyCodeByVarietyName",
@@ -183,7 +187,7 @@
         "preExicutionRequriedApi": []
     },
     {
-        "id": 10,
+        "id": 6,
         "name": "cropNameToCropCode",
         "description": "Converts a crop name (e.g., 'PADDY') into its corresponding Crop Code.",
         "endpoint": "https://seedtrace.gov.in/api/sainet/getCropCodeByCropName",
@@ -193,4 +197,5 @@
         "tags": ["crop", "code", "utility"],
         "preExicutionRequriedApi": []
     }
+    
 ]

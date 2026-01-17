@@ -22,7 +22,7 @@ from mcp.server.fastmcp import FastMCP
 mcp = FastMCP("APIKnowledgeBaseRetriever")
 
 # ---- Step 1: Load Knowledge Base ----
-KB_PATH = "kb.json"  # Path to your KB JSON file
+KB_PATH = "oldkb.json"  # Path to your KB JSON file
 
 try:
     with open(KB_PATH, "r") as f:
